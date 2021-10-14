@@ -1,4 +1,4 @@
-# cms-frontend
+# cms-client
 
 ## Project setup
 ```
