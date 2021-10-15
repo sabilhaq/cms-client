@@ -8,6 +8,7 @@ import DataDate from "@/views/DataDate.vue"
 import Maps from "@/views/Maps.vue"
 import Bar from "@/views/Bar.vue"
 import Pie from "@/views/Pie.vue"
+import Line from "@/views/Line.vue"
 
 const routes = [
   {
@@ -54,6 +55,11 @@ const routes = [
     path: "/pie",
     name: "Pie",
     component: Pie,
+  },
+  {
+    path: "/line",
+    name: "Line",
+    component: Line,
   },
 ]
 

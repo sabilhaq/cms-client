@@ -96,7 +96,7 @@
             <p class="card-text">Bar</p>
           </div>
         </a>
-        <a href="/maps">
+        <a href="/map">
           <div class="nav-item text-white bg-success mb-3">
             <svg
               xmlns="http://www.w3.org/2000/svg"
