@@ -9,6 +9,7 @@ import Maps from "@/views/Maps.vue"
 import Bar from "@/views/Bar.vue"
 import Pie from "@/views/Pie.vue"
 import Line from "@/views/Line.vue"
+import Map from "@/views/Map.vue"
 
 const routes = [
   {
@@ -60,6 +61,11 @@ const routes = [
     path: "/line",
     name: "Line",
     component: Line,
+  },
+  {
+    path: "/map",
+    name: "Map",
+    component: Map,
   },
 ]
 
